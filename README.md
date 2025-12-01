@@ -12,6 +12,8 @@ This project implements a Convolutional Neural Network (CNN) to classify hand ge
 ✔️ Easy-to-reproduce training pipeline
 
 ✔️ Well-structured and beginner-friendly code
+
+
 ---> Dataset
 
 The model uses the LeapGestRecog dataset, which contains:
@@ -21,6 +23,8 @@ The model uses the LeapGestRecog dataset, which contains:
 200 directories (20 users × 10 gestures)
 
 2000+ grayscale images per gesture
+
+
 --project structure--
     ├── data/
 ├── src/
